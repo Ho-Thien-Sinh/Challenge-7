@@ -1,0 +1,45 @@
+2025-05-21T07:00:40.820Z [error]: Error fetching articles: column "imageUrl" does not exist
+2025-05-21T07:00:40.835Z [error]: Error fetching articles: column "imageUrl" does not exist
+2025-05-21T07:09:15.147Z [error]: Lỗi khi thêm dữ liệu mẫu: relation "articles" does not exist
+2025-05-21T07:09:58.752Z [error]: Error synchronizing Article model: Validation error
+2025-05-21T07:14:46.434Z [error]: Error synchronizing Article model: Validation error
+2025-05-21T07:18:19.782Z [error]: Error synchronizing Article model: Validation error
+2025-05-21T07:26:02.180Z [error]: Error synchronizing Article model: Validation error
+2025-05-21T07:33:41.746Z [error]: Error synchronizing Article model: Validation error
+2025-05-21T07:37:22.171Z [error]: Error synchronizing Article model: Validation error
+2025-05-21T07:59:18.371Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a9876d51sm9382805b3a.141 - gsmtp
+2025-05-21T08:05:53.873Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a970b9basm9063077b3a.49 - gsmtp
+2025-05-21T08:11:26.052Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-231d4adb71dsm88525425ad.62 - gsmtp
+2025-05-21T08:20:20.840Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-30f365134c2sm3342989a91.43 - gsmtp
+2025-05-21T08:20:59.097Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a96deaf4sm9118728b3a.23 - gsmtp
+2025-05-21T08:27:09.888Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-231d4eedb59sm88173145ad.257 - gsmtp
+2025-05-21T08:31:47.750Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-231d4ed2abbsm88048595ad.227 - gsmtp
+2025-05-21T08:36:02.235Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a96dfaefsm9177197b3a.33 - gsmtp
+2025-05-21T08:41:42.655Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a970c85dsm9443868b3a.61 - gsmtp
+2025-05-21T09:15:56.641Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-231d4b049ddsm89358175ad.97 - gsmtp
+2025-05-21T09:19:34.011Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-231d4ac91b7sm89816545ad.19 - gsmtp
+2025-05-21T09:22:05.342Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-231d4ac93besm88729285ad.12 - gsmtp
+2025-05-21T09:31:22.765Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a982b9a0sm9555714b3a.108 - gsmtp
+2025-05-21T09:54:53.937Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-231d4e97de4sm89587755ad.144 - gsmtp
+2025-05-21T09:55:40.683Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a9709534sm9185060b3a.41 - gsmtp
+2025-05-21T09:57:44.056Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eaf5abedsm9397740a12.3 - gsmtp
+2025-05-21T10:06:37.715Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-30f36366219sm3293382a91.6 - gsmtp
+2025-05-21T10:10:48.943Z [error]: Email configuration error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a9829a4dsm9628330b3a.107 - gsmtp
