@@ -22,6 +22,18 @@ const Article = sequelize.define("Article", {
   imageUrl: {
     type: DataTypes.STRING,
   },
+  // Thêm mảng các URL hình ảnh trong bài viết
+  images: {
+    type: DataTypes.TEXT,
+    get() {
+      const rawValue = this.getDataValue('images');
+      return rawValue ? JSON.parse(rawValue) : [];
+    },
+    set(value) {
+      this.setDataValue('images', JSON.stringify(value));
+    },
+    defaultValue: '[]'
+  },
   sourceUrl: {
     type: DataTypes.STRING,
     allowNull: false,
@@ -33,6 +45,11 @@ const Article = sequelize.define("Article", {
   },
   category: {
     type: DataTypes.STRING,
+  },
+  // Thêm trường tác giả
+  author: {
+    type: DataTypes.STRING,
+    defaultValue: 'Tuổi Trẻ Online'
   },
 }, {
   timestamps: true,
